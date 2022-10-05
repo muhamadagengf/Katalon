@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Payment_Information</name>
+   <tag></tag>
+   <elementGuidId>1eb86690-3660-44df-b9db-95340ac87340</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_summary_container']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.summary_info_label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21783551-d24e-4cb1-820d-7cc98bab02db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>summary_info_label</value>
+      <webElementGuid>24b6e731-7ed0-483b-86dc-f58f76025841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payment Information:</value>
+      <webElementGuid>f9a41d91-4afe-4308-b4b7-e60d95709496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_summary_container&quot;)/div[1]/div[@class=&quot;summary_info&quot;]/div[@class=&quot;summary_info_label&quot;]</value>
+      <webElementGuid>10d2af77-4512-4c81-becb-74a6bd0fee05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_summary_container']/div/div[2]/div</value>
+      <webElementGuid>f87b605b-0a55-48a2-b168-5cc869047a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::div[2]</value>
+      <webElementGuid>82fa298e-465d-4786-acff-59c3e1666c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/following::div[5]</value>
+      <webElementGuid>31b59116-1128-4636-acf4-ff04b8a195df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SauceCard #31337'])[1]/preceding::div[1]</value>
+      <webElementGuid>29d18539-25b9-48f2-9a8d-babc9191b663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Information:'])[1]/preceding::div[2]</value>
+      <webElementGuid>8c7580dc-ade1-45ff-a758-25f917c85ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payment Information:']/parent::*</value>
+      <webElementGuid>5644a99b-dc5f-4f57-8984-7068f3e6f8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>f394532b-4ddf-4444-bd8a-8953ed60c738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Payment Information:' or . = 'Payment Information:')]</value>
+      <webElementGuid>a84fd71d-7284-476e-8ff8-9c48ecc7402f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

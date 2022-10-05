@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Checkout Overview</name>
+   <tag></tag>
+   <elementGuidId>6a4abb8e-8b05-4b71-bcc9-5d829465461c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d1ee3be-fd8c-44b7-8eb6-9b307cd082fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>570f982f-85b9-4e78-970e-aa806d897dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout: Overview</value>
+      <webElementGuid>9f2c7359-98b3-468c-99e8-49b279c88044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>2999bc86-12ea-45b8-bd6e-cff58767de94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div[2]/span</value>
+      <webElementGuid>320ec889-b4d5-4ed1-a8ae-38efe2196a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::span[2]</value>
+      <webElementGuid>e02a3122-3510-4ae4-bf0f-8996d16647ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::span[2]</value>
+      <webElementGuid>3d690db8-dd52-4528-943b-36096dd39412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/preceding::span[1]</value>
+      <webElementGuid>52303d81-1c54-44b7-a237-fca4dcddf751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/preceding::span[1]</value>
+      <webElementGuid>21ba9a5b-4a70-41b7-9baa-cf211dafe2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checkout: Overview']/parent::*</value>
+      <webElementGuid>e314e3f4-d306-4618-9515-8663f5045eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>f351d556-c584-497e-bc6f-7c63467165fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Checkout: Overview' or . = 'Checkout: Overview')]</value>
+      <webElementGuid>ade8dfa3-3342-4485-bf42-402549db23f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_SauceCard</name>
+   <tag></tag>
+   <elementGuidId>81ffc16d-5864-482c-aacc-2f701d7ef1cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_summary_container']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.summary_value_label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>951820e3-a3e5-41a9-9be6-301275b052a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>summary_value_label</value>
+      <webElementGuid>5122a01b-96b3-499d-934c-70ab0f055843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SauceCard #31337</value>
+      <webElementGuid>7bc70def-6285-4602-8ff0-2a5a4e7d2c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_summary_container&quot;)/div[1]/div[@class=&quot;summary_info&quot;]/div[@class=&quot;summary_value_label&quot;]</value>
+      <webElementGuid>552f1c4f-b643-46da-871f-61357c6d9578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_summary_container']/div/div[2]/div[2]</value>
+      <webElementGuid>83545577-afab-468e-b3a5-146bc0b8f6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Information:'])[1]/following::div[1]</value>
+      <webElementGuid>32ae1d85-9d1c-4ba3-a4c4-a2124fbeed59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::div[3]</value>
+      <webElementGuid>c023996c-b5e5-49fc-9a05-f3182f0f0f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Information:'])[1]/preceding::div[1]</value>
+      <webElementGuid>89da42d3-45bf-49d7-98c4-4684352a44ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FREE PONY EXPRESS DELIVERY!'])[1]/preceding::div[2]</value>
+      <webElementGuid>02dd6d9f-5ef1-4961-b9cb-6427503bfeab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SauceCard #31337']/parent::*</value>
+      <webElementGuid>8841199a-b457-400f-8a96-2e7367c7f839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>e128e733-5731-4e4f-955f-81e8329384c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SauceCard #31337' or . = 'SauceCard #31337')]</value>
+      <webElementGuid>8dae4411-611f-4bab-bd80-f3e704456be4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

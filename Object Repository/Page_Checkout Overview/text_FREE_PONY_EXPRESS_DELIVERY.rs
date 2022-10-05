@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_FREE_PONY_EXPRESS_DELIVERY</name>
+   <tag></tag>
+   <elementGuidId>7eb87e7e-5d0f-47d9-80ea-22ffe44ff187</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_summary_container']/div/div[2]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf00baa9-6154-4813-a300-d8626fd4a6af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>summary_value_label</value>
+      <webElementGuid>fda5d48e-b634-461e-bbbf-e182b9ebb205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FREE PONY EXPRESS DELIVERY!</value>
+      <webElementGuid>eca33a09-795b-4ec2-bb42-0199babefbe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_summary_container&quot;)/div[1]/div[@class=&quot;summary_info&quot;]/div[@class=&quot;summary_value_label&quot;]</value>
+      <webElementGuid>f2bd074a-5e7d-4fb8-bf13-1e981886ccd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_summary_container']/div/div[2]/div[4]</value>
+      <webElementGuid>e973cfa5-edca-444b-b16a-a9a8621b682c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Information:'])[1]/following::div[1]</value>
+      <webElementGuid>f856f145-e322-47d0-89f9-90d299f0d6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SauceCard #31337'])[1]/following::div[2]</value>
+      <webElementGuid>319f12d1-33ae-4335-a1a6-469b46a1ca05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item total: $29.99'])[1]/preceding::div[1]</value>
+      <webElementGuid>1a940067-d489-4c51-97e4-405baa4e59ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax: $2.40'])[1]/preceding::div[2]</value>
+      <webElementGuid>b9ab398d-f76c-4981-805c-4092a689ba00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FREE PONY EXPRESS DELIVERY!']/parent::*</value>
+      <webElementGuid>8c8edbac-b61e-4f61-b266-0be771f0b61a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>df3acdfa-3265-4056-98b7-799ecd744b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FREE PONY EXPRESS DELIVERY!' or . = 'FREE PONY EXPRESS DELIVERY!')]</value>
+      <webElementGuid>5e674e1e-0dea-4619-af99-7b29d25bb7d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

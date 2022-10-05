@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Shipping _Information</name>
+   <tag></tag>
+   <elementGuidId>5ba36dc4-53f8-4eaf-99ef-c1e6aee1223b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_summary_container']/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d99280fa-92fe-4644-80c7-0d03cfbf5692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>summary_info_label</value>
+      <webElementGuid>08ad81ba-24fc-47d5-aa1c-5175982b304a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping Information:</value>
+      <webElementGuid>bd0565fc-a0b7-4bc3-9432-0be6d5465a56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_summary_container&quot;)/div[1]/div[@class=&quot;summary_info&quot;]/div[@class=&quot;summary_info_label&quot;]</value>
+      <webElementGuid>5c3ddeaf-5c50-4659-a724-6a394a5d5df0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_summary_container']/div/div[2]/div[3]</value>
+      <webElementGuid>78c7429b-31b2-44b8-beb8-5abc8e6776df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SauceCard #31337'])[1]/following::div[1]</value>
+      <webElementGuid>5ab191ca-7cdf-4328-921a-3bd14f45de9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Information:'])[1]/following::div[2]</value>
+      <webElementGuid>2664529f-15c2-4cd6-acb5-0446c64548c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FREE PONY EXPRESS DELIVERY!'])[1]/preceding::div[1]</value>
+      <webElementGuid>443238d9-398f-43ac-9d5b-4f70c150bb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item total: $29.99'])[1]/preceding::div[2]</value>
+      <webElementGuid>1ab5f9a2-fe1f-4189-9436-319d274a8148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipping Information:']/parent::*</value>
+      <webElementGuid>73015499-9f61-40dd-bf62-f0d3954df60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>a7746d7a-abf9-4760-b72f-13b93d2f5c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Shipping Information:' or . = 'Shipping Information:')]</value>
+      <webElementGuid>6968b52e-f504-472c-94fb-51f5fc6ac927</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

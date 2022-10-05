@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_prodcut_desc</name>
+   <tag></tag>
+   <elementGuidId>2cea629e-db73-48e4-a37d-14cfbacfb49b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inventory_container']/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.inventory_item_desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4c96d24-e779-49b6-a961-761303f464d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_item_desc</value>
+      <webElementGuid>fc6d3e27-1941-49c8-8aae-98e26141667b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.</value>
+      <webElementGuid>623ba19a-0fbe-45c7-baf2-d3a8e9047123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents_wrapper&quot;)/div[@id=&quot;inventory_container&quot;]/div[1]/div[@id=&quot;inventory_container&quot;]/div[@class=&quot;inventory_list&quot;]/div[@class=&quot;inventory_item&quot;]/div[@class=&quot;inventory_item_description&quot;]/div[@class=&quot;inventory_item_label&quot;]/div[@class=&quot;inventory_item_desc&quot;]</value>
+      <webElementGuid>1fc0c8b7-0ae8-4311-8210-ddb82e9c84ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inventory_container']/div/div/div[2]/div/div</value>
+      <webElementGuid>bef2f2f2-53c8-454b-ae22-017ba0e76fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/following::div[1]</value>
+      <webElementGuid>ad35e214-fbe4-4ff9-9779-3bfe86a0a388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/following::div[10]</value>
+      <webElementGuid>bc6fb0b4-2b2e-4d6d-a1a4-d9e2f3cbc347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/preceding::div[1]</value>
+      <webElementGuid>96bd2fb3-e782-484b-96e8-4758d54a37df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/preceding::div[2]</value>
+      <webElementGuid>61c0cd9f-0a76-47b1-99db-a054f93a8e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.']/parent::*</value>
+      <webElementGuid>20176168-f22c-4558-934d-503b394793c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>ffece870-6834-48fc-9209-2876625386d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.' or . = 'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.')]</value>
+      <webElementGuid>8af81cb0-7f21-46a1-a618-35efcd01b1a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
